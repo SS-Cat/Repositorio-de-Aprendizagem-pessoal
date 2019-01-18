@@ -1,0 +1,19 @@
+{
+  "name": "web_learn",
+  "version": "1.0.0",
+  "description": "4training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SS-Cat/web-projects.git"
+  },
+  "author": "mewmystery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SS-Cat/web-projects/issues"
+  },
+  "homepage": "https://github.com/SS-Cat/web-projects#readme"
+}
