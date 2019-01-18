@@ -57,3 +57,7 @@ footer img {
 	float: right;
 	margin: 0 0 10px 10px;
 }
+
+p::first-letter {
+	font-weight: bold;
+}
